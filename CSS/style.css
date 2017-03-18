@@ -1,0 +1,70 @@
+
+/*GLOBAL STYLES*/
+* {
+
+}
+#container {
+	background-color: grey;
+}
+body {
+	background-color: white;
+}
+header {
+	background-color: #5986A6;
+	height: 350px;
+}
+main {
+	background-color: white;
+}
+footer {
+	background-color: white;
+	text-align: center;
+}
+
+/*IMG STYLES*/
+
+img.brand {
+	position: relative;
+	margin-left: 398px;
+	margin-top: 184px;	
+}
+img.home {
+	margin-right: 7px;
+	margin-top: -3px;
+	float: left;
+}
+img.phones {
+	margin-left: 60px;
+	margin-top: -140px;
+}
+img.frame {
+	margin-left: -62px;
+	margin-top: -157px;
+	position: relative;
+}
+
+/*DIV STYLES*/
+.capture {
+	background-color: lightgreen;
+	width: 50%;
+	float: right;
+}
+.login {
+	background-color: grey;
+	border-radius: 8px;
+	display: inline-block;
+	float: right;
+	padding: 12px 10px;
+	position: relative;
+	margin-right: 200px;
+	margin-top: 202px;
+}
+
+/*TAG STYLES*/
+
+button {
+	float: right;
+	margin-top: 0px;
+}
+
+
