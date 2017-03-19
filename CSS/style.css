@@ -38,16 +38,19 @@ img.phones {
 	margin-top: -140px;
 }
 img.frame {
-	margin-left: -62px;
-	margin-top: -157px;
+	margin-right: 81px;
+	margin-top: -79px;
 	position: relative;
+	float: right;
 }
 
 /*DIV STYLES*/
 .capture {
 	background-color: lightgreen;
-	width: 50%;
-	float: right;
+	position: absolute;
+	width: 38%;
+	right: 126px;
+	bottom: 278px;
 }
 .login {
 	background-color: grey;
