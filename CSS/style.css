@@ -1,4 +1,5 @@
 
+/*1024 RESOLUTION*/
 /*GLOBAL STYLES*/
 * {
 
@@ -13,7 +14,7 @@ header {
 	background-color: #5986A6;
 	height: 350px;
 }
-main {
+section {
 	background-color: white;
 }
 footer {
@@ -116,4 +117,27 @@ a {
 	font-weight: 400;
 	color: #06369E;
 	padding: 3px;
+}
+
+/*MEDIA STYLES*/
+@media (max-width: 667px) {
+
+.login {
+	background-color: #5986A6;
+	border-radius: 8px;
+	display: inline-block;
+	float: right;
+	padding: 12px 17px;
+	position: relative;
+	margin-right: 89px;
+	margin-top: -73px;
+}	
+.capture {
+	/*background-color: lightgreen;*/
+	background-color: white;
+	position: absolute;
+	width: 38%;
+	right: 126px;
+	bottom: 347px;
+	
 }
